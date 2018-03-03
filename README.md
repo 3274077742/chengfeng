@@ -24,4 +24,4 @@
 
 上传文件，导入数据库，修改config.php 文件即可使用
 
-商户地址：http://pay.pay592.com/yunzhifu/View/Login/login.html
+
